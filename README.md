@@ -9,7 +9,7 @@ This project was put together by Patricia Puente, Kayla Wilkins, and Jincheng Yu
 ## Folders 
 
 ## Data 
-Data used for this project was retrieved from Kaggle, [NBA Games Data](https://www.kaggle.com/datasets/n athanlauga/nba-games/).
+Data used for this project was retrieved from Kaggle, [NBA Games Data](https://www.kaggle.com/datasets/nathanlauga/nba-games/).
 
 ## Code 
 
